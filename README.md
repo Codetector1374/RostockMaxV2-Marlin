@@ -1,3 +1,7 @@
+# Marlin for RoStockMax V2
+## Configured by Codetector
+Please adjust the height in firmware accordingly. And the dispaly we used is a 128x64 Reprap Full Graphics Smart Controller. Please adjust accordingly.
+
 # Marlin 3D Printer Firmware
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
